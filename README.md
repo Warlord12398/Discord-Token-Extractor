@@ -38,5 +38,5 @@ window.webpackChunkdiscord_app.push([
   }
 ]);
 
-#Warning 
+# Warning 
 This script is made for educational purposes only. I am not responsible for any misuse or malicious activities performed using this code. Use it responsibly and within legal boundaries.
